@@ -1,4 +1,4 @@
 # Chat-Bot-usingNLP
-AICT Internship Program
+AICTE Internship Program
 
 #Week 1 Implementation Completed
