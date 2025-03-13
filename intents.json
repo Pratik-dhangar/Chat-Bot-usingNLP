@@ -59,6 +59,19 @@
         ]
     },
     {
+        "tag": "developer",
+        "patterns": [
+            "Who is developer",
+            "Who created you",
+            "developed for what",
+        ],
+        "responses": [
+            "Developed by - Pratik Dhangar",
+            "My creator is Pratik",
+            "I am developed by pratik"
+        ]
+    },
+    {
         "tag": "help",
         "patterns": [
             "Help",
